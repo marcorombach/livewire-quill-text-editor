@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.4 - 2026-02-03
+
+**Full Changelog**: https://github.com/dasundev/livewire-quill-text-editor/compare/v1.0.3...v1.0.4
+
 ## v1.0.3 - 2024-04-18
 
 ### What's Changed
